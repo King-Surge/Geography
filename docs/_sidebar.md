@@ -1,8 +1,9 @@
 * **Overview**
   * [Home](README.md)
 * **Notes**
-  * [Integers](notes/integers.md)
-  * [Order Of Operations](notes/operations.md)
+  * [What is Geography?](notes/whatsgeo.md)
+  * [Integers](notes/biosphere.md)
+  * [Order Of Operations](notes/ecosystems.md)
 
 * **Glossary**
   * [Glossary](pages/glossary.md)
